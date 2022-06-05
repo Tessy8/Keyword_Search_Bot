@@ -97,37 +97,6 @@
     },
     {
       "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.6.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib/net40/BitMiracle.LibTiff.NET.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\ntextcat\\0.3.65\\lib/netstandard2.0/NTextCat.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.buffers\\4.5.1\\lib/net461/System.Buffers.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib/net461/System.Collections.Immutable.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.common\\5.0.2\\lib/net461/System.Drawing.Common.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib/net45/System.Drawing.Primitives.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.memory\\4.5.4\\lib/net461/System.Memory.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib/net46/System.Numerics.Vectors.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.14.0\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.0.0\\lib/net461/UiPath.DocumentUnderstanding.Digitizer.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib/net461/UiPath.PDF.Activities.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib/net461/UiPath.PDF.Telemetry.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib/net461/UiPath.PDF.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0"
-    },
-    {
-      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "22.4.1"
       },
@@ -230,39 +199,10 @@
         "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.vision\\3.3.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.4"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Word.Activities",
-        "Version": "1.10.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/Interop.Domino.UiPath.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/Microsoft.Office.Interop.Word.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/Office.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.Design.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.Package.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.document.net\\2.0.21359.11160\\lib/net40/Xceed.Document.NET.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\lib/net40/Xceed.Pdf.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160\\lib/net40/Xceed.Words.NET.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
-    "BitMiracle.Docotic.Pdf": {
-      "Id": "BitMiracle.Docotic.Pdf",
-      "Version": "7.5.11645",
-      "Dependencies": []
-    },
-    "BitMiracle.LibTiff.NET": {
-      "Id": "BitMiracle.LibTiff.NET",
-      "Version": "2.4.649",
-      "Dependencies": []
-    },
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.87.1",
@@ -987,11 +927,6 @@
         }
       ]
     },
-    "NTextCat": {
-      "Id": "NTextCat",
-      "Version": "0.3.65",
-      "Dependencies": []
-    },
     "Polly": {
       "Id": "Polly",
       "Version": "7.1.0",
@@ -1025,16 +960,6 @@
     "System.ComponentModel.Annotations": {
       "Id": "System.ComponentModel.Annotations",
       "Version": "4.7.0",
-      "Dependencies": []
-    },
-    "System.Drawing.Common": {
-      "Id": "System.Drawing.Common",
-      "Version": "5.0.2",
-      "Dependencies": []
-    },
-    "System.Drawing.Primitives": {
-      "Id": "System.Drawing.Primitives",
-      "Version": "4.3.0",
       "Dependencies": []
     },
     "System.IdentityModel.Tokens.Jwt": {
@@ -1262,50 +1187,6 @@
         }
       ]
     },
-    "UiPath.DocumentProcessing.Contracts": {
-      "Id": "UiPath.DocumentProcessing.Contracts",
-      "Version": "1.14.0",
-      "Dependencies": [
-        {
-          "Item1": "Newtonsoft.Json",
-          "Item2": "[11.0.2, )"
-        }
-      ]
-    },
-    "UiPath.DocumentUnderstanding.Digitizer": {
-      "Id": "UiPath.DocumentUnderstanding.Digitizer",
-      "Version": "2.0.0",
-      "Dependencies": [
-        {
-          "Item1": "BitMiracle.Docotic.Pdf",
-          "Item2": "[7.5.11645, )"
-        },
-        {
-          "Item1": "System.Drawing.Common",
-          "Item2": "[5.0.2, )"
-        },
-        {
-          "Item1": "System.Drawing.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Collections.Immutable",
-          "Item2": "[1.5.0, )"
-        },
-        {
-          "Item1": "NTextCat",
-          "Item2": "[0.3.65, )"
-        },
-        {
-          "Item1": "BitMiracle.LibTiff.NET",
-          "Item2": "[2.4.649, )"
-        },
-        {
-          "Item1": "UiPath.DocumentProcessing.Contracts",
-          "Item2": "[1.14.0, )"
-        }
-      ]
-    },
     "UiPath.Excel.Activities": {
       "Id": "UiPath.Excel.Activities",
       "Version": "2.12.3",
@@ -1457,44 +1338,6 @@
       "Id": "UiPath.OCR.Contracts",
       "Version": "2.11.0",
       "Dependencies": []
-    },
-    "UiPath.PDF.Activities": {
-      "Id": "UiPath.PDF.Activities",
-      "Version": "3.6.0",
-      "Dependencies": [
-        {
-          "Item1": "BitMiracle.Docotic.Pdf",
-          "Item2": "[7.5.11645, )"
-        },
-        {
-          "Item1": "Newtonsoft.Json",
-          "Item2": "[11.0.2, )"
-        },
-        {
-          "Item1": "System.IO.Abstractions",
-          "Item2": "[3.0.10, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks.Dataflow",
-          "Item2": "[5.0.0, )"
-        },
-        {
-          "Item1": "System.ValueTuple",
-          "Item2": "[4.5.0, )"
-        },
-        {
-          "Item1": "UiPath.DocumentUnderstanding.Digitizer",
-          "Item2": "[2.0.0, )"
-        },
-        {
-          "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.11.0, )"
-        },
-        {
-          "Item1": "UiPath.Telemetry.Client",
-          "Item2": "[1.5.3, )"
-        }
-      ]
     },
     "UiPath.Platform": {
       "Id": "UiPath.Platform",
@@ -1649,68 +1492,9 @@
           "Item2": "[2.11.0, )"
         }
       ]
-    },
-    "UiPath.Word.Activities": {
-      "Id": "UiPath.Word.Activities",
-      "Version": "1.10.1",
-      "Dependencies": [
-        {
-          "Item1": "Xceed.Words.NET",
-          "Item2": "[2.0.21359.11160, )"
-        }
-      ]
-    },
-    "Xceed.Document.NET": {
-      "Id": "Xceed.Document.NET",
-      "Version": "2.0.21359.11160",
-      "Dependencies": [
-        {
-          "Item1": "Xceed.Pdf",
-          "Item2": "[2.0.21359.11160, 2.0.21359.11160]"
-        }
-      ]
-    },
-    "Xceed.Pdf": {
-      "Id": "Xceed.Pdf",
-      "Version": "2.0.21359.11160",
-      "Dependencies": []
-    },
-    "Xceed.Words.NET": {
-      "Id": "Xceed.Words.NET",
-      "Version": "2.0.21359.11160",
-      "Dependencies": [
-        {
-          "Item1": "Xceed.Document.NET",
-          "Item2": "[2.0.21359.11160, 2.0.21359.11160]"
-        },
-        {
-          "Item1": "Xceed.Pdf",
-          "Item2": "[2.0.21359.11160, 2.0.21359.11160]"
-        }
-      ]
     }
   },
   "AllPackages": [
-    {
-      "Package": {
-        "Id": "BitMiracle.Docotic.Pdf",
-        "Version": "7.5.11645"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\lib\\net46\\BitMiracle.Docotic.Pdf.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645"
-    },
-    {
-      "Package": {
-        "Id": "BitMiracle.LibTiff.NET",
-        "Version": "2.4.649"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib\\net40\\BitMiracle.LibTiff.NET.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649"
-    },
     {
       "Package": {
         "Id": "ClosedXML",
@@ -2335,16 +2119,6 @@
     },
     {
       "Package": {
-        "Id": "NTextCat",
-        "Version": "0.3.65"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\ntextcat\\0.3.65\\lib\\netstandard2.0\\NTextCat.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\ntextcat\\0.3.65"
-    },
-    {
-      "Package": {
         "Id": "Polly",
         "Version": "7.1.0"
       },
@@ -2402,26 +2176,6 @@
         "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
       ],
       "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Drawing.Common",
-        "Version": "5.0.2"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.common\\5.0.2\\lib\\net461\\System.Drawing.Common.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.common\\5.0.2"
-    },
-    {
-      "Package": {
-        "Id": "System.Drawing.Primitives",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib\\net45\\System.Drawing.Primitives.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -2635,26 +2389,6 @@
     },
     {
       "Package": {
-        "Id": "UiPath.DocumentProcessing.Contracts",
-        "Version": "1.14.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.14.0\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.14.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.DocumentUnderstanding.Digitizer",
-        "Version": "2.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.0.0\\lib\\net461\\UiPath.DocumentUnderstanding.Digitizer.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.0.0"
-    },
-    {
-      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.12.3"
       },
@@ -2721,19 +2455,6 @@
     },
     {
       "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.6.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib\\net461\\UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib\\net461\\UiPath.PDF.Activities.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib\\net461\\UiPath.PDF.Telemetry.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0\\lib\\net461\\UiPath.PDF.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.pdf.activities\\3.6.0"
-    },
-    {
-      "Package": {
         "Id": "UiPath.Platform",
         "Version": "22.4.1"
       },
@@ -2797,52 +2518,6 @@
         "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.vision\\3.3.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Word.Activities",
-        "Version": "1.10.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\Interop.Domino.UiPath.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\Microsoft.Office.Interop.Word.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\Office.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.Design.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.Package.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.word.activities\\1.10.1"
-    },
-    {
-      "Package": {
-        "Id": "Xceed.Document.NET",
-        "Version": "2.0.21359.11160"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.document.net\\2.0.21359.11160\\lib\\net40\\Xceed.Document.NET.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.document.net\\2.0.21359.11160"
-    },
-    {
-      "Package": {
-        "Id": "Xceed.Pdf",
-        "Version": "2.0.21359.11160"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\lib\\net40\\Xceed.Pdf.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160"
-    },
-    {
-      "Package": {
-        "Id": "Xceed.Words.NET",
-        "Version": "2.0.21359.11160"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160\\lib\\net40\\Xceed.Words.NET.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160"
     }
   ]
 }

@@ -8418,9 +8418,9 @@
     "restore": {
       "projectUniqueName": "SearchKeyWords",
       "projectName": "SearchKeyWords",
-      "projectPath": "C:\\Users\\TESSY ADAMS\\Desktop\\Prog_Lang\\RPA\\Challenge\\SearchKeyWords\\.local",
+      "projectPath": "C:\\Users\\TESSY ADAMS\\Desktop\\Prog_Lang\\RPA\\Challenge\\Keyword_Search_Bot\\.local",
       "packagesPath": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TESSY ADAMS\\Desktop\\Prog_Lang\\RPA\\Challenge\\SearchKeyWords\\.local"
+      "outputPath": "C:\\Users\\TESSY ADAMS\\Desktop\\Prog_Lang\\RPA\\Challenge\\Keyword_Search_Bot\\.local"
     },
     "frameworks": {
       "net461": {

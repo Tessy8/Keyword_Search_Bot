@@ -1,0 +1,12 @@
+Item
+Item No
+Item Number
+CLIN
+Line
+Material
+Cost
+
+
+Check Solicitation or SOL or Solicitation Number = Notice ID, Performance of Work, Excel (Schedule of Items, Item Description, Item Lists, ..Price, Pricing, BOM Requirements)
+
+Extract the number of items.

@@ -37,3 +37,14 @@ CLIN DESCRIPTION OF REQUIREMENT QTY UNIT UNIT PRICE TOTAL PRICE
 GRAND TOTAL
 
 
+OR
+Get Index of 1, check if it is close to index of Item, Description
+
+
+Port code from one platform to the other?
+No, it's not possible due to the different architecture...
+See if there's a free robot on the other studios.
+UiPath is the fastest. They are all paid and some have community edition for students and small businesses.
+Unattended - $1,380.00 / month
+Custom with 5 unattended robots - $5,220.00 / month
+I've messaged UiPath to discuss pricing

@@ -39,6 +39,7 @@ GRAND TOTAL
 
 OR
 Get Index of 1, check if it is close to index of Item, Description
+Try Convert cell to Int
 
 
 Port code from one platform to the other?

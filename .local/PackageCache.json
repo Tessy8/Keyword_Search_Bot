@@ -113,6 +113,99 @@
     },
     {
       "Package": {
+        "Id": "UiPath.IntelligentOCR.Activities",
+        "Version": "6.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib/net40/BitMiracle.LibTiff.NET.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\fsharp.core\\4.7.1\\lib/net45/FSharp.Core.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.3\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\ntextcat\\0.3.65\\lib/netstandard2.0/NTextCat.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.buffers\\4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.common\\5.0.2\\lib/net461/System.Drawing.Common.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib/net45/System.Drawing.Primitives.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.io.compression\\4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.memory\\4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.net.http\\4.3.4\\runtimes/win/lib/net46/System.Net.Http.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\lib/net45/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\runtimes/win/lib/net461/System.Security.Cryptography.Algorithms.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\lib/net46/System.Security.Cryptography.Primitives.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\tinycsvparser\\2.5.2\\lib/net45/TinyCsvParser.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/CefSharp.Core.Runtime.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/CefSharp.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/UiPath.CefSharpBundle.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/libEGL.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/libcef.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/msvcp140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/vk_swiftshader.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib/net452/vulkan-1.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.14.0\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.0.0\\lib/net461/UiPath.DocumentUnderstanding.Digitizer.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/Emgu.CV.Bitmap.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/concrt140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/cvextern.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/msvcp140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/msvcp140_1.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/msvcp140_2.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/msvcp140_atomic_wait.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/msvcp140_codecvt_ids.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib/net461/vcruntime140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.IntelligentOCR.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ClassificationStation.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.Data.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.Language.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.Localization.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.PDF.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.Telemetry.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.Utils.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib/net461/UiPath.SmartData.WPF.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0\\lib/netstandard2.0/Numsense.dll"
+      ],
+      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Mail.Activities",
         "Version": "1.15.1"
       },
@@ -482,99 +575,6 @@
         "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipathteam.pdf.extensions.activities\\2.4.0\\lib/net461/UiPathTeam.PDF.Extensions.Activities.dll"
       ],
       "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipathteam.pdf.extensions.activities\\2.4.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.IntelligentOCR.Activities",
-        "Version": "5.0.2"
-      },
-      "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib/net40/BitMiracle.LibTiff.NET.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\fsharp.core\\4.7.1\\lib/net45/FSharp.Core.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.3\\lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\ntextcat\\0.3.65\\lib/netstandard2.0/NTextCat.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.buffers\\4.5.1\\lib/net461/System.Buffers.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib/net461/System.Collections.Immutable.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.common\\5.0.2\\lib/net461/System.Drawing.Common.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib/net45/System.Drawing.Primitives.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.io.compression\\4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.memory\\4.5.4\\lib/net461/System.Memory.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.net.http\\4.3.4\\runtimes/win/lib/net46/System.Net.Http.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib/net46/System.Numerics.Vectors.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\lib/net45/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\runtimes/win/lib/net461/System.Security.Cryptography.Algorithms.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\lib/net46/System.Security.Cryptography.Primitives.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\tinycsvparser\\2.5.2\\lib/net45/TinyCsvParser.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/CefSharp.Core.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/CefSharp.Core.Runtime.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/CefSharp.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/CefSharp.Wpf.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/chrome_elf.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/d3dcompiler_47.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/libcef.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/libEGL.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/libGLESv2.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/msvcp140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/UiPath.CefSharpBundle.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/vcruntime140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/swiftshader/libEGL.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib/net452/swiftshader/libGLESv2.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.14.0\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/concrt140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/cvextern.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/Emgu.CV.Bitmap.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/Emgu.CV.Platform.NetStandard.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/msvcp140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/msvcp140_1.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/msvcp140_2.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/msvcp140_atomic_wait.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/msvcp140_codecvt_ids.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.DocumentUnderstanding.Digitizer.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.IntelligentOCR.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ClassificationStation.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ClassificationStation.Host.Local.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Data.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Digitization.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Language.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Localization.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.OCR.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.PDF.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Telemetry.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.Utils.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ValidationStation.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/UiPath.SmartData.WPF.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib/net461/vcruntime140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0\\lib/netstandard2.0/Numsense.dll"
-      ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2"
     }
   ],
   "Conflicts": [],
@@ -1754,7 +1754,7 @@
     },
     "UiPath.CefSharpBundle": {
       "Id": "UiPath.CefSharpBundle",
-      "Version": "1.6.0",
+      "Version": "1.8.0",
       "Dependencies": []
     },
     "UiPath.ConnectionClient": {
@@ -1861,6 +1861,11 @@
         }
       ]
     },
+    "UiPath.EmguCVBundle": {
+      "Id": "UiPath.EmguCVBundle",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
     "UiPath.Excel.Activities": {
       "Id": "UiPath.Excel.Activities",
       "Version": "2.12.3",
@@ -1906,7 +1911,7 @@
     },
     "UiPath.IntelligentOCR.Activities": {
       "Id": "UiPath.IntelligentOCR.Activities",
-      "Version": "5.0.2",
+      "Version": "6.0.1",
       "Dependencies": [
         {
           "Item1": "BitMiracle.Docotic.Pdf",
@@ -1986,15 +1991,23 @@
         },
         {
           "Item1": "UiPath.CefSharpBundle",
-          "Item2": "[1.6.0, )"
+          "Item2": "[1.8.0, )"
         },
         {
           "Item1": "UiPath.DocumentProcessing.Contracts",
-          "Item2": "[1.11.0, )"
+          "Item2": "[1.14.0, )"
+        },
+        {
+          "Item1": "UiPath.DocumentUnderstanding.Digitizer",
+          "Item2": "[2.0.0, )"
+        },
+        {
+          "Item1": "UiPath.EmguCVBundle",
+          "Item2": "[1.0.0, )"
         },
         {
           "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.9.1, )"
+          "Item2": "[2.11.0, )"
         },
         {
           "Item1": "UiPath.Telemetry.Client",
@@ -3733,15 +3746,15 @@
     {
       "Package": {
         "Id": "UiPath.CefSharpBundle",
-        "Version": "1.6.0"
+        "Version": "1.8.0"
       },
       "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.Runtime.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Wpf.dll"
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib\\net452\\CefSharp.Core.Runtime.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib\\net452\\CefSharp.Wpf.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0\\lib\\net452\\CefSharp.dll"
       ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0"
+      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.cefsharpbundle\\1.8.0"
     },
     {
       "Package": {
@@ -3789,6 +3802,25 @@
     },
     {
       "Package": {
+        "Id": "UiPath.EmguCVBundle",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\Emgu.CV.Bitmap.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\concrt140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\cvextern.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\msvcp140.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\msvcp140_1.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\msvcp140_2.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\msvcp140_atomic_wait.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\msvcp140_codecvt_ids.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0\\lib\\net461\\vcruntime140.dll"
+      ],
+      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.12.3"
       },
@@ -3816,52 +3848,39 @@
     {
       "Package": {
         "Id": "UiPath.IntelligentOCR.Activities",
-        "Version": "5.0.2"
+        "Version": "6.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\concrt140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\cvextern.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\Emgu.CV.Bitmap.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\Emgu.CV.Platform.NetStandard.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\msvcp140.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\msvcp140_1.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\msvcp140_2.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\msvcp140_atomic_wait.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\msvcp140_codecvt_ids.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.DocumentUnderstanding.Digitizer.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.IntelligentOCR.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ClassificationStation.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Data.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Digitization.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Language.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Localization.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.OCR.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.exe",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.PDF.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Telemetry.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.Utils.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\UiPath.SmartData.WPF.dll",
-        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2\\lib\\net461\\vcruntime140.dll"
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.IntelligentOCR.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ClassificationStation.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.Data.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.Language.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.Localization.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.exe",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.PDF.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.Telemetry.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.Utils.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1\\lib\\net461\\UiPath.SmartData.WPF.dll"
       ],
-      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\5.0.2"
+      "Path": "C:\\Users\\TESSY ADAMS\\.nuget\\packages\\uipath.intelligentocr.activities\\6.0.1"
     },
     {
       "Package": {

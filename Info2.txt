@@ -49,3 +49,6 @@ UiPath is the fastest. They are all paid and some have community edition for stu
 Unattended - $1,380.00 / month
 Custom with 5 unattended robots - $5,220.00 / month
 I've messaged UiPath to discuss pricing
+
+
+NOTE: Not all downloaded zip have spaces replaced by +
